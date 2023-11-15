@@ -65,7 +65,7 @@ int main()
      int choice;
     while(1)
     {
-        printf("\n1Add a data to the list\n2Print the list\n3-Length of the list \n4-Exit \nChoose an operation. "); 
+        printf("\n1-Add a data to the list\n2-Print the list\n3-Length of the list \n4-Exit \nChoose an operation. "); 
         scanf("%d", &choice);
 
         switch (choice)
